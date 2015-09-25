@@ -1,4 +1,4 @@
-# cfg_plan_inversion
+# Plan de Inversion
 ====================
 Juventud Productiva Bicentenaria y el Consejo Federa de Gobierno
 =========================
